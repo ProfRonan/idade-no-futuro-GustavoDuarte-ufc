@@ -14,8 +14,8 @@
       "name": "Zerado",
       "setup": "",
       "run": "python main.py",
-      "input": "0\r\n0\r\n0\r\nA\r\n",
-      "output": "A, no ano de 0 você terá 0 anos",
+      "input": "0\r\n0\r\n0\r\nFulano\r\n",
+      "output": "Fulano, no ano de 0 você terá 0 anos",
       "comparison": "included",
       "timeout": 1,
       "points": 25
@@ -24,8 +24,8 @@
       "name": "Valores Negativos",
       "setup": "",
       "run": "python main.py",
-      "input": "0\r\n1\r\n-2\r\nB\r\n",
-      "output": "B, no ano de -2 você terá -1 anos",
+      "input": "0\r\n1\r\n-2\r\nBeltrano\r\n",
+      "output": "Beltrano, no ano de -2 você terá -1 anos",
       "comparison": "included",
       "timeout": 1,
       "points": 25
