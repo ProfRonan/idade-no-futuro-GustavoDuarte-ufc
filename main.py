@@ -1,7 +1,6 @@
-anoatual = int(input())
-idadeatual = int(input())
-
-anocomp = int(input())
-nome = input()
-
-print(" ",nome+"\n, no ano de",anocomp,"você terá",(anocomp-anoatual+idadeatual),"anos")
+a = int(input(''))
+b = int(input(''))
+c = int(input(''))
+d = input('')
+e = c - a + b
+print(d+", no ano de",c,"você terá",e,"anos")
