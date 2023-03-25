@@ -1,8 +1,8 @@
-ano_atual = int(input())
-idade_atual = int(input())
+anoatual = int(input())
+idadeatual = int(input())
 
-ano_comp = int(input())
+anocomp = int(input())
 nome = str(input())
 
-if ano_atual < ano_comp and ano_atual > 0 and idade_atual > 0 and ano_comp > 0:
-    print(nome+", no ano de",ano_comp,"você terá",ano_comp-ano_atual+idade_atual,"anos")
+if anoatual < anocomp and anoatual > 0 and idadeatual > 0 and anocomp > 0:
+    print(nome+", no ano de",anocomp,"você terá",(anocomp-anoatual+idadeatual),"anos")
